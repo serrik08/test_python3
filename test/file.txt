@@ -1,0 +1,5 @@
+Esto es un fichero de
+texto
+Esta es la terce linea
+Esta es la terce linea
+Esta es la terce linea

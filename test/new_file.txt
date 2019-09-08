@@ -1,0 +1,3 @@
+hola, esta es la
+    linea que vamos a grabar
+        del fichero
